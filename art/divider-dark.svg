@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 6" width="600" height="6" shape-rendering="crispEdges">
+<style>
+  @keyframes shimmer {
+    0%   { transform: translateX(-80px); }
+    100% { transform: translateX(680px); }
+  }
+  .shimmer { animation: shimmer 4s ease-in-out infinite; }
+</style>
 <rect width="600" height="6" fill="#0D1117"/>
 <rect x="43" y="1" width="21" height="4" rx="2" fill="#3a0f08"/>
 <rect x="64" y="1" width="22" height="4" rx="2" fill="#3a0f08"/>
@@ -24,4 +31,5 @@
 <rect x="493" y="1" width="21" height="4" rx="2" fill="#8b2500"/>
 <rect x="514" y="1" width="22" height="4" rx="2" fill="#3a0f08"/>
 <rect x="536" y="1" width="21" height="4" rx="2" fill="#3a0f08"/>
+<rect x="-80" y="0" width="60" height="6" rx="3" fill="#ffe8c0" opacity="0.25" class="shimmer"/>
 </svg>
