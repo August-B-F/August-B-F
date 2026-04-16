@@ -21,12 +21,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-light.svg">
-  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="500">
+  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="600">
 </picture>
 
 <br><br>
-
-</div>
 
 ### building
 
@@ -53,24 +51,22 @@
   </tr>
   <tr>
     <td align="center" width="100" valign="top">
-      <img src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/project-chart.svg" width="64" height="64" alt="Quantitative trading">
+      <img src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/project-phone.svg" width="64" height="64" alt="PhantomLink">
     </td>
     <td valign="top">
-      <b>Quantitative trading</b><br>
-      <sub>ETF rotation strategy with a Multi-Branch Transformer for signal generation.<br>
-      Active research.</sub>
+      <b>PhantomLink</b><br>
+      <sub>Android device bridge. Phone B presents as Phone A at every layer.<br>
+      Rust daemon, Kotlin apps, custom kernel module, KernelSU + LSPosed.</sub>
     </td>
   </tr>
 </table>
-
-<div align="center">
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-light.svg">
-  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="500">
+  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="600">
 </picture>
 
 <br><br>
@@ -108,45 +104,27 @@
   </tr>
 </table>
 
-<sub>
-
-**infrastructure:** Active Directory · Intune · Veeam · Azure AD · VMware/Hyper-V
-<br>
-**platforms:** Windows · Linux
-<br>
-**tools:** Git
-
-</sub>
-
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-light.svg">
-  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="500">
+  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="600">
 </picture>
 
 <br><br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=August-B-F&show_icons=true&bg_color=0a0608&title_color=ffb347&text_color=f5e0cc&icon_color=e8634a&border_color=1e1418&ring_color=c44530&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=August-B-F&show_icons=true&bg_color=0a0608&title_color=ffb347&text_color=f5e0cc&icon_color=e8634a&border_color=1e1418&ring_color=c44530&count_private=true" width="400" alt="GitHub stats">
+<a href="https://github-readme-stats.vercel.app/api?username=August-B-F&show_icons=true&bg_color=0D1117&title_color=ffb347&text_color=f5e0cc&icon_color=e8634a&border_color=1e1418&ring_color=c44530&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=August-B-F&show_icons=true&bg_color=0D1117&title_color=ffb347&text_color=f5e0cc&icon_color=e8634a&border_color=1e1418&ring_color=c44530&count_private=true" width="400" alt="GitHub stats">
 </a>
 <br><br>
-<a href="https://streak-stats.demolab.com/?user=August-B-F&background=0a0608&border=1e1418&stroke=1e1418&ring=c44530&fire=e8634a&currStreakNum=ffb347&sideNums=f5e0cc&currStreakLabel=f5e0cc&sideLabels=f5e0cc&dates=f5e0cc">
-  <img src="https://streak-stats.demolab.com/?user=August-B-F&background=0a0608&border=1e1418&stroke=1e1418&ring=c44530&fire=e8634a&currStreakNum=ffb347&sideNums=f5e0cc&currStreakLabel=f5e0cc&sideLabels=f5e0cc&dates=f5e0cc" width="400" alt="GitHub streak">
+<a href="https://streak-stats.demolab.com/?user=August-B-F&background=0D1117&border=1e1418&stroke=1e1418&ring=c44530&fire=e8634a&currStreakNum=ffb347&sideNums=f5e0cc&currStreakLabel=f5e0cc&sideLabels=f5e0cc&dates=f5e0cc">
+  <img src="https://streak-stats.demolab.com/?user=August-B-F&background=0D1117&border=1e1418&stroke=1e1418&ring=c44530&fire=e8634a&currStreakNum=ffb347&sideNums=f5e0cc&currStreakLabel=f5e0cc&sideLabels=f5e0cc&dates=f5e0cc" width="400" alt="GitHub streak">
 </a>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-light.svg">
-  <img alt="" src="https://raw.githubusercontent.com/August-B-F/August-B-F/main/art/divider-dark.svg" width="500">
-</picture>
-
-<br><br>
-
-<sub>Runs a remote gaming rig in Sweden over ZeroTier + Parsec. Latency is a feature.</sub>
+<sub>All pixel art is hand-crafted SVG. No external dependencies. No JavaScript.</sub>
 
 <br><br>
 
